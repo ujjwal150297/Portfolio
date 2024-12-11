@@ -1,4 +1,8 @@
-# Ujjwal's Portfolio
+# Ujjwal Vasava
+
+# About
+
+#Data Analyst Lead with over 3 years of experience in leading data initiatives to uncover actionable insights, proficient in advanced analytics, predictive modeling, and stakeholder communication. Holding dual postgraduate degrees in Data Analytics and Operations Management alongside a bachelor's in Engineering, bringing a unique blend of technical expertise and strategic thinking to drive business growth and efficiency.
 
 #[Project 1: HR Analytics - Python Visualization](https://github.com/ujjwal150297/HR-Analytics---Visualization.git)
 
